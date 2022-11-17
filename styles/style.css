@@ -1,5 +1,9 @@
 * {
+<<<<<<< HEAD
   border: 1px solid red;
+=======
+  border: 1px solid blue;
+>>>>>>> 66bca5a646bcd379f0b45e9348afe5a36bd1a4c8
 }
 
 .page {
@@ -261,12 +265,18 @@
   right: -210px;
 }
 
+<<<<<<< HEAD
 /* .footer {
+=======
+.footer {
+  display: flex;
+>>>>>>> 66bca5a646bcd379f0b45e9348afe5a36bd1a4c8
   padding: 60px 0 40px 0;
   background-color: #1f1f1f;
   color: white;
   box-sizing: border-box;
   min-height: 350px;
+<<<<<<< HEAD
   height: 1px;
 }*/
 
@@ -278,6 +288,8 @@ footer {
   /* position: relative; */
   background-color: #1f1f1f;
   color: white;
+=======
+>>>>>>> 66bca5a646bcd379f0b45e9348afe5a36bd1a4c8
 }
 
 /* .footer__columns {
@@ -286,6 +298,7 @@ footer {
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
+<<<<<<< HEAD
   height: 100%;
 }*/
 
@@ -294,6 +307,8 @@ footer {
   justify-content: space-between;
   margin: 0 auto 0 auto;
   width: 90%;
+=======
+>>>>>>> 66bca5a646bcd379f0b45e9348afe5a36bd1a4c8
 }
 
 /*.footer__column_content_copyright {
